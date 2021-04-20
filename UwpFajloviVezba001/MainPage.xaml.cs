@@ -205,7 +205,7 @@ namespace UwpFajloviVezba001
             }
             else
             {
-                TextBlock1.Text = "Odaberite osob";
+                TextBlock1.Text = "Odaberite osobu.";
             }
         }
     }
